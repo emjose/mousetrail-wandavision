@@ -36,13 +36,14 @@ tsParticles.load("tsparticles", {
       random: false,
       anim: {
         enable: false,
-        speed: 3,
+        speed: 1,
         opacity_min: 0.1,
         sync: false
       }
     },
     size: {
-      value: 50,
+    // size was 60
+      value: 60,
       random: {
         enable: true,
         minimumValue: 10
@@ -61,7 +62,8 @@ tsParticles.load("tsparticles", {
     },
     move: {
       enable: true,
-      speed: 10,
+      //speed was 10
+      speed: 8,
       direction: "none",
       random: false,
       straight: false,
@@ -86,19 +88,22 @@ tsParticles.load("tsparticles", {
       },
       resize: true
     },
+
+    //distance was 400
     modes: {
       grab: {
-        distance: 400,
+        distance: 10,
         line_linked: {
-          opacity: 1
+          opacity: .8
         }
       },
+    //distance was 400, duration was 2, speed was 3
       bubble: {
-        distance: 400,
-        size: 40,
+        distance: 10,
+        size: 80,
         duration: 2,
-        opacity: 0.8,
-        speed: 3
+        opacity: 1,
+        speed: 0
       },
       repulse: {
         distance: 200
@@ -109,9 +114,10 @@ tsParticles.load("tsparticles", {
       remove: {
         particles_nb: 2
       },
+      //trail was 5
       trail: {
-        delay: 0.005,
-        quantity: 5
+        delay: 0,
+        quantity: 12
       }
     }
   },
