@@ -118,7 +118,7 @@ tsParticles.load("tsparticles", {
   retina_detect: true,
   background: {
     color: "#000000",
-    image: "url('https://newevolutiondesigns.com/images/freebies/4k-wallpaper-1.jpg')",
+    image: "url('https://res.cloudinary.com/dn1e07eul/image/upload/v1615054343/100%20Days%20Of%20Code/wanda01_jrpv3h.jpg')",
     position: "50% 50%",
     repeat: "no-repeat",
     size: "cover"
