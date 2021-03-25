@@ -28,6 +28,7 @@
 - [Installation](#installation) 
 - [Live Site](#live-site)
 - [Resources](#resources)
+- [Copyright](#copyright)
 - [Let's Connect!](#lets-connect) 
 
 #
@@ -36,7 +37,11 @@
 
 <a href=#100days>![#100DaysOfCode](Assets/inter-100hash.png)</a>  
 
-<a href=#100days>![Under Construction](Assets/lorem-text.png)</a>
+#### Day 25: March 9, 2021
+- I loved creating mouse trail effects for Day 24 (see <a href="https://github.com/emjose/mousetrail-particle1/#header">one</a>, <a href="https://github.com/emjose/mousetrail-particle2/#header">two</a>, <a href="https://github.com/emjose/mousetrail-particle3/#header">three</a>, <a href="https://github.com/emjose/mousetrail-particle4/#header">four</a>, and <a href="https://github.com/emjose/mousetrail-space/#header">Spectrum</a>).
+- For Day 25, I wanted to work on a mouse trail effect that would reveal a background.
+- I had recently binge-watched the TV show <a href="https://www.marvel.com/tv-shows/wandavision/1">WandaVision</a>, and the mouse trail effect reveals an image of the character Wanda Maximoff/Scarlet Witch, portrayed by the actress Elizabeth Olsen.
+- The mouse trail effect uses <a href="https://particles.js.org/">tsParticles</a>, which is a lightweight Typescript library for creating particles.
 
 #
 
@@ -52,6 +57,7 @@ git clone git@github.com:emjose/mousetrail-wandavision.git && cd mousetrail-wand
 ```
 open index.html
 ```
+#### On your device, move the cursor around to see the mouse trail effect.
 
 #
 
@@ -59,7 +65,7 @@ open index.html
 
 <a href="https://emjose.github.io/mousetrail-wandavision/">![Live Site](Assets/inter-live-site.png)</a>
 
-<a href="https://emjose.github.io/mousetrail-wandavision/">![Under Construction](Assets/lorem-live.png)</a>
+<a href="https://emjose.github.io/mousetrail-wandavision/">![Live Site](Assets/025-wandavision.gif)</a>
 
 #
 
@@ -70,12 +76,26 @@ open index.html
 - #### [tsParticles](https://particles.js.org/) by [Matteo Bruni](https://github.com/matteobruni)  
 
 - #### [tsParticles on Github](https://github.com/matteobruni/tsparticles)
-
+  
 <br>
 
 - #### [particles.js](https://vincentgarreau.com/particles.js/) by [Vincent Garreau](https://github.com/VincentGarreau)
 
 - #### [particles.js on Github](https://github.com/VincentGarreau/particles.js)
+  
+<br>
+  
+- #### [Wanda Maximoff/Scarlet Witch image by WallpaperAccess](https://wallpaperaccess.com/)
+  
+- #### [WandaVision on Disney+](https://www.marvel.com/tv-shows/wandavision/1)
+
+#
+
+<p id="copyright"><p>
+
+<a href=#copyright>![Copyright](Assets/inter-copyright.png)</a>
+
+#### This project is for made for educational purposes only. All WandaVision images and characters are copyright of <a href="https://www.marvel.com/">Marvel</a>. ©Marvel
 
 #
 
