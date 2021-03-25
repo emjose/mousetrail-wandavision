@@ -38,10 +38,10 @@
 <a href=#100days>![#100DaysOfCode](Assets/inter-100hash.png)</a>  
 
 #### Day 25: March 9, 2021
-- I loved creating mouse trail effects for Day 24 (see <a href="https://github.com/emjose/mousetrail-particle1/#header">one</a>, <a href="https://github.com/emjose/mousetrail-particle2/#header">two</a>, <a href="https://github.com/emjose/mousetrail-particle3/#header">three</a>, <a href="https://github.com/emjose/mousetrail-particle4/#header">four</a>, and <a href="https://github.com/emjose/mousetrail-space/#header">Spectrum</a>).
-- For Day 25, I wanted to work on a mouse trail effect that would reveal a background.
-- I had recently binge-watched the TV show <a href="https://www.marvel.com/tv-shows/wandavision/1">WandaVision</a>, and the mouse trail effect reveals an image of the character Wanda Maximoff/Scarlet Witch, portrayed by the actress Elizabeth Olsen.
-- The mouse trail effect uses <a href="https://particles.js.org/">tsParticles</a>, which is a lightweight Typescript library for creating particles.
+- I enjoyed creating mouse trails for Day 24 (see <a href="https://github.com/emjose/mousetrail-particle1/#header">one</a>, <a href="https://github.com/emjose/mousetrail-particle2/#header">two</a>, <a href="https://github.com/emjose/mousetrail-particle3/#header">three</a>, <a href="https://github.com/emjose/mousetrail-particle4/#header">four</a>, and <a href="https://github.com/emjose/mousetrail-space/#header">Spectrum</a>).
+- For Day 25, I wanted to work on a mouse trail effect that reveals a background.
+- This mouse trail uses <a href="https://particles.js.org/">tsParticles</a>, a lightweight Typescript library for creating particles.
+- I loved the TV show <a href="https://www.marvel.com/tv-shows/wandavision/1">WandaVision</a>, and the mouse trail reveals the character Wanda Maximoff/Scarlet Witch, portrayed by the actress Elizabeth Olsen.
 
 #
 
@@ -76,14 +76,10 @@ open index.html
 - #### [tsParticles](https://particles.js.org/) by [Matteo Bruni](https://github.com/matteobruni)  
 
 - #### [tsParticles on Github](https://github.com/matteobruni/tsparticles)
-  
-<br>
 
 - #### [particles.js](https://vincentgarreau.com/particles.js/) by [Vincent Garreau](https://github.com/VincentGarreau)
 
 - #### [particles.js on Github](https://github.com/VincentGarreau/particles.js)
-  
-<br>
   
 - #### [Wanda Maximoff/Scarlet Witch image by WallpaperAccess](https://wallpaperaccess.com/)
   
