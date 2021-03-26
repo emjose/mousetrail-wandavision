@@ -37,7 +37,7 @@
 
 <a href=#100days>![#100DaysOfCode](Assets/inter-100hash.png)</a>  
 
-#### DAY 25: MARCH 9, 2021
+### Day 25: March 9, 2021
 - I enjoyed creating mouse trails for Day 24 (see <a href="https://github.com/emjose/mousetrail-particle1/#header">one</a>, <a href="https://github.com/emjose/mousetrail-particle2/#header">two</a>, <a href="https://github.com/emjose/mousetrail-particle3/#header">three</a>, <a href="https://github.com/emjose/mousetrail-particle4/#header">four</a>, and <a href="https://github.com/emjose/mousetrail-space/#header">Spectrum</a>).
 - For Day 25, I wanted to work on a mouse trail effect that reveals a background image.
 - This mouse trail uses <a href="https://particles.js.org/">tsParticles</a>, a lightweight Typescript library for creating particles.
@@ -93,7 +93,7 @@ open index.html
 
 - This project is for made for educational purposes only. 
   
-- All WandaVision images and characters are copyright of <a href="https://www.marvel.com/">Marvel</a>. ©Marvel
+- All WandaVision images and characters are copyright of <a href="https://www.marvel.com/">MARVEL</a>. ©MARVEL
 
 #
 
