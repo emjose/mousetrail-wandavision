@@ -39,8 +39,11 @@
 
 ### Day 25: March 9, 2021
 - I enjoyed creating mouse trails for Day 24 (see <a href="https://github.com/emjose/mousetrail-particle1/#header">one</a>, <a href="https://github.com/emjose/mousetrail-particle2/#header">two</a>, <a href="https://github.com/emjose/mousetrail-particle3/#header">three</a>, <a href="https://github.com/emjose/mousetrail-particle4/#header">four</a>, and <a href="https://github.com/emjose/mousetrail-space/#header">Spectrum</a>).
+  
 - For Day 25, I wanted to work on a mouse trail effect that reveals a background image.
+  
 - This mouse trail uses <a href="https://particles.js.org/">tsParticles</a>, a lightweight Typescript library for creating particles.
+  
 - I loved the TV show <a href="https://www.marvel.com/tv-shows/wandavision/1">WandaVision</a>, and the mouse trail reveals the character Wanda Maximoff/Scarlet Witch, portrayed by the actress Elizabeth Olsen.
 
 #
