@@ -44,7 +44,7 @@
   
 - This mouse trail uses <a href="https://particles.js.org/">tsParticles</a>, a lightweight Typescript library for creating particles.
   
-- I loved the TV show <a href="https://www.marvel.com/tv-shows/wandavision/1">WandaVision</a>, and the mouse trail reveals the character Wanda Maximoff/Scarlet Witch, portrayed by the actress Elizabeth Olsen.
+- I loved the TV show <a href="https://www.marvel.com/tv-shows/wandavision/1">WandaVision</a>, and the mouse trail reveals the character Wanda Maximoff/Scarlet Witch, portrayed by the actress <a href="https://www.imdb.com/name/nm0647634/?ref_=fn_al_nm_1">Elizabeth Olsen</a>.
 
 #
 
