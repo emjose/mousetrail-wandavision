@@ -51,19 +51,19 @@
 
 <a href=#installation>![Installation](https://res.cloudinary.com/dn1e07eul/image/upload/v1659389842/Readme%20Headers/inter-installation_j9ixlq.png)</a>
 
-#### Git clone and cd into the repo folder:
+#### 1. Git clone and cd into the repo folder:
 
 ```console
 git clone git@github.com:emjose/mousetrail-wandavision.git && cd mousetrail-wandavision
 ```
 
-#### Run the command:
+#### 2. Run the command:
 
 ```console
 open index.html
 ```
 
-#### On your device, move the cursor around to see the mouse trail effect.
+#### 3. On your device, move the cursor around to see the mouse trail effect.
 
 #
 
@@ -86,7 +86,9 @@ open index.html
 -   #### [particles.js](https://vincentgarreau.com/particles.js/) by [Vincent Garreau](https://github.com/VincentGarreau)
 
 -   #### [particles.js on Github](https://github.com/VincentGarreau/particles.js)
+
 -   #### [Wanda Maximoff/Scarlet Witch image by WallpaperAccess](https://wallpaperaccess.com/)
+
 -   #### [WandaVision on Disney+](https://www.marvel.com/tv-shows/wandavision/1)
 
 -   #### [My blog on how I created my Github READMEs](https://emmanueljose.medium.com/readme-a-makeover-story-b9c7be37a6de?sk=7ae6623d365409d875753e4604e42ffd)
