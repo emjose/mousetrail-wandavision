@@ -29,6 +29,8 @@
 -   [Copyright](#copyright)
 -   [Let's Connect!](#lets-connect)
 
+<br>
+
 #
 
 <p id="100days"><p>
@@ -44,6 +46,8 @@
 -   This mouse trail uses <a href="https://particles.js.org/">tsParticles</a>, a lightweight Typescript library for creating particles.
 
 -   I loved the TV show <a href="https://www.marvel.com/tv-shows/wandavision/1">WandaVision</a>, and the mouse trail reveals the character Wanda Maximoff/Scarlet Witch, portrayed by the actress <a href="https://www.imdb.com/name/nm0647634/">Elizabeth Olsen</a>.
+
+<br>
 
 #
 
@@ -65,6 +69,8 @@ open index.html
 
 #### 3. On your device, move the cursor around to see the mouse trail effect.
 
+<br>
+
 #
 
 <p id="live-site"><p>
@@ -72,6 +78,12 @@ open index.html
 <a href="https://emjose.github.io/mousetrail-wandavision/">![Live Site](https://res.cloudinary.com/dn1e07eul/image/upload/v1659389947/Readme%20Headers/inter-live-site_ngkqcf.png)</a>
 
 <a href="https://emjose.github.io/mousetrail-wandavision/">![Live Site](Assets/025-wandavision.gif)</a>
+
+• **The [WandaVision Mouse Trail](https://emjose.github.io/mousetrail-wandavision/)** is best viewed on a desktop or laptop computer browser.
+
+• **The [WandaVision Mouse Trail](https://emjose.github.io/mousetrail-wandavision/)** is a [progressive web app](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps).
+
+<br>
 
 #
 
@@ -93,6 +105,8 @@ open index.html
 
 -   #### [My blog on how I created my Github READMEs](https://emmanueljose.medium.com/readme-a-makeover-story-b9c7be37a6de?sk=7ae6623d365409d875753e4604e42ffd)
 
+<br>
+
 #
 
 <p id="copyright"><p>
@@ -102,6 +116,8 @@ open index.html
 -   This project is for made for educational purposes only.
 
 -   All WandaVision images and characters are copyright of <a href="https://www.marvel.com/">MARVEL</a>. © MARVEL. All Rights Reserved.
+
+<br>
 
 #
 
